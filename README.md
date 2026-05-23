@@ -165,4 +165,5 @@ The reported results in the paper are averaged over multiple random seeds.
 # 📥 Pretrained Models
 
 Pretrained checkpoints can be downloaded from:
-(https://pan.baidu.com/s/1valwROkws_IyUOlPYxIMkQ?pwd=p2kh)
+📥 [点击下载权重](https://pan.baidu.com/s/1valwROkws_IyUOlPYxIMkQ?pwd=p2kh)
+
